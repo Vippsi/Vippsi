@@ -23,7 +23,7 @@ new climber :climbing:</h3>
 
 
 <p align="left">
-<div style="display: flex; justify-content: space-around; width: 75%">
+<div style="display: flex; justify-content: space-around;">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
