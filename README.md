@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A fullstack developer, 
-cyclist :bicyclist: , 
+cyclist :bicyclist:, 
 new climber :climbing:</h3>
 
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on **Lambda Backend**
+- 🔭 I’m currently working on **Lambda Computer Science Unit 2**
 
-- 🌱 I’m currently learning **JS, Java, Kotlin, Python**
+- 🌱 I’m currently learning **JS, Python, Vue**
 
 - 👨‍💻 All of my projects are available at (Unfinished) [https://vippsi.dev/](https://vippsi.dev/)
 
