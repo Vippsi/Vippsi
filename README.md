@@ -8,7 +8,7 @@ new climber :climbing:</h3>
 <br>
 - 🔭 I’m currently working on **Lambda Computer Science Unit 2**
 
-- 🌱 I’m currently learning **JS, Python, Vue**
+- 🌱 I’m currently learning **JS, Python, React Native**
 
 - 👨‍💻 All of my projects are available at (Unfinished) [https://vippsi.dev/](https://vippsi.dev/)
 
