@@ -16,7 +16,7 @@ new climber :climbing:</h3>
 
 - 📫 How to reach me **jonathanthornton1997@gmail.com**
 
-- ⚡ Fun fact **Tea = Coffee, But Chai > Coffee**
+- ⚡ Fun fact **Tea == Coffee, But Chai > Coffee**
 
 <br>
 <br>
