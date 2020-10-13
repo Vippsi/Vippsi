@@ -10,7 +10,7 @@ new climber :climbing:</h3>
 
 - 🌱 I’m currently learning **JS, Python, React Native**
 
-- 👨‍💻 All of my projects are available at (Unfinished) [https://vippsi.dev/](https://vippsi.dev/)
+- 👨‍💻 All of my projects are available at [https://vippsi.dev/](https://vippsi.dev/)
 
 - 💬 Ask me about **React, Redux, NodeJs**
 
