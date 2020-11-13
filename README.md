@@ -14,7 +14,7 @@ new climber :climbing:</h3>
 
 - 💬 Ask me about **React, Redux, NodeJs**
 
-- 📫 How to reach me **jonathanthornton1997@gmail.com**
+- 📫 How to reach me **vippsidev@gmail.com**
 
 - ⚡ Fun fact **Tea == Coffee, But Chai > Coffee**
 
