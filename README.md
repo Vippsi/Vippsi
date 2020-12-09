@@ -6,7 +6,7 @@ new climber :climbing:</h3>
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on **Lambda Labs!**
+- 🔭 I’m currently working on **Personal Projects / Job Search**
 
 - 🌱 I’m currently learning **JS, Python, React Native**
 
